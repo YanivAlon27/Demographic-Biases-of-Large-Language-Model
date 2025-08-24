@@ -3,7 +3,7 @@
 This repository contains the analysis code and notebook for the study.
 
 ## Contents
-- `downward_scope_220725_clean.ipynb` — structured, share-ready notebook (run top-to-bottom)
+- `Demographic_Biases_2025.ipynb` — structured, share-ready notebook (run top-to-bottom)
 - `requirements.txt` — Python dependencies (add versions if needed)
 - `README.md` — this file
 
