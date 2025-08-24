@@ -22,8 +22,7 @@ jupyter notebook
 ```
 
 ## Data
-Data are not included in this repository. Update the **Data Loading** section in the notebook to point to your local/secure path.
-If the data are controlled-access, please contact the data controller(s) named in the manuscript.
+Data are not included in this repository. 
 
 ## Reproducibility
 - Run the notebook **top-to-bottom** in a clean environment.
